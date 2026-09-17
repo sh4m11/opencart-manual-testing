@@ -29,6 +29,8 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 | RTM(Opencart).xlsx | Requirement Traceability Matrix document mapping requirements to test scenarios, test cases, and defects. |
 | BugReport(OpenCart).xlsx | Tracking and documenting software bugs and issues found during testing, including steps to reproduce and severity. |
 
+## References:
+Manual testing test cases and documentation adapted from gangapandey (https://github.com/gangapandey/OpenCart-ManualTesting).
 
 ## Contributions:
 
